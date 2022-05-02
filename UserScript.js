@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @match        https://ps.pcti.tec.nj.us/guardian/home.html
-// @match        https://ps.pcti.tec.nj.us/guardian/home.html?_userTypeHint=student#
+// @match        https://ps.pcti.tec.nj.us/guardian/home.html?*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=github.com
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/AG231921/jasoc/main/UserScript.js
